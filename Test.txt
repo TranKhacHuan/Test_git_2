@@ -2,8 +2,3 @@ This is Test file
 This is so dummy
 This is so dummy 5
 This is so dummy 3
-This is so dummy 5
-This is so dummy 3
-
-This is so dummy 3
-This is so dummy 5
